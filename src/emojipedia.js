@@ -26,6 +26,20 @@ const emojipedia = [
     name: "Nerd Face",
     meaning:
       "Huge glasses, awkward smile and buck teeth. Used humorously or ironically for nerds or to express how smart you are. Stereotype of a nerd; a smart but funny-dressed person with social deficits."
+  },
+  {
+    id: 5,
+    emoji: "😎",
+    name: "Face With Sunglasses",
+    meaning:
+      "I'm the king of the world! Mr. Cool Smiley with sunglasses. Is totally self-assured and relaxed. Everything is absolutely easy and cool."
+  },
+  {
+    id: 6,
+    emoji: "🤢",
+    name: "Nauseated Face",
+    meaning:
+      "Disgusted smiley, which is already green with sickness and nausea. Might mean disgust, reluctance, or aversion, or stand for sickness."
   }
 ];
 
