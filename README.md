@@ -1,2 +1,3 @@
 # EmojiPedia
-Created with CodeSandbox
+
+A website which tells us the meanings of emojis.
